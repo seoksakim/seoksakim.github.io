@@ -11,9 +11,9 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Moderate Talk, not Cheap"
+title                    : "경제학을 꿈꾸는 블로그"
 title_separator          : "-"
-subtitle                 : "경제학을 꿈꾸는 블로그"
+subtitle                 : ""
 name                     : "Seoksa KIM" # &name is a YAML anchor which can be *referenced later
 description              :    
 url                      : https://seoksakim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
