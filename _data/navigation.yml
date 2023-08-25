@@ -48,7 +48,10 @@ docs:
     children:
       - title: "정의론이란?"
         url: /docs/justice/
-
+      - title: "사회선택이론"
+        url: /docs/social-choice/
+      - title: "기독교경제학"
+        url: /docs/christ-econ/       
 
 
 # sidebar navigation list sample
