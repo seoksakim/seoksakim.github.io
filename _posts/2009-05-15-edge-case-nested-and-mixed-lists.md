@@ -14,7 +14,7 @@ tags:
 
 물품세의 초과부담은 삼각형의 넓이, 즉 $-\frac{1}{2} dt dq$와 같다. 이는 아래 도출과정에서 보듯이 다음처럼 표현할 수 있다. 
 
-$$ EB = ~\frac{1}{2} \cdot \frac{1}{ \cfrac{1}{\epsilon\_{s}} + \cfrac{1}{\epsilon\_{d}} } \cdot \frac{q}{p} \cdot dt^{2}$$
+$$ EB = ~\frac{1}{2} \cdot \frac{1}{ \cfrac{1}{\epsilon_{S}} + \cfrac{1}{\epsilon_{D}} } \cdot \frac{q}{p} \cdot dt^{2}$$
 
 위 식은 이준구&조명환(2016), 470쪽 주석 5와 다소 다르다. 품목당 생산자가격에 부과하는 우리와 달리 물품세를 소비자가격의 세율($t\\cdot P\_{d}$)로 정의한 데 따른 차이이다.
 
