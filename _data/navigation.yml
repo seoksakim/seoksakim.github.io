@@ -1,57 +1,9 @@
 # main links
 main:
-   - title: "미시경제학"
-     url: /docs/micro/
-   - title: "거시경제학"
-     url: /docs/macro/
-   - title: "경제수학"
-     url: /docs/math/
-   - title: "정의론"
-     url: /docs/justice/
-
-
-# documentation links
-docs:
-  - title: 들어가며
-    children:
-      - title: "경제학이란? "
-        url: /docs/econ/
-      - title: "참고문헌"
-        url: /docs/reference/
-  - title: 미시경제학
-    children:
-      - title: "미시경제학이란?"
-        url: /docs/micro/
-      - title: "소비자이론"
-        url: /docs/consumer/
-      - title: "기업이론"
-        url: /docs/firm/
-      - title: "일반균형이론"
-        url: /docs/general-equilibrium/
-      - title: "마켓디자인"
-        url: /docs/market-design/
-  - title: 거시경제학
-    children:
-      - title: "거시경제학이란?"
-        url: /docs/macro/
-      - title: "성장모형"
-        url: /docs/growth/
-      - title: "RANK"
-        url: /docs/nk/
-      - title: "TANK, HANK"
-        url: /docs/nkmore/
-  - title: 경제수학
-    children:
-      - title: "경제수학이란?"
-        url: /docs/math/
-  - title: 정의론
-    children:
-      - title: "정의론이란?"
-        url: /docs/justice/
-      - title: "사회선택이론"
-        url: /docs/social-choice/
-      - title: "기독교경제학"
-        url: /docs/christ-econ/       
+  - title: "연도별"
+    url: /year-archive/
+  - title: "주제별"
+    url: /collection-archive/
 
 
 # sidebar navigation list sample
