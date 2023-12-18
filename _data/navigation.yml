@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "연도별"
-    url: /year-archive/
   - title: "주제별"
     url: /collection-archive/
 
