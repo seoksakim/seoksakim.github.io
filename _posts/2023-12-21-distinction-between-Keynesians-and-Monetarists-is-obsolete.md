@@ -1,5 +1,5 @@
 ---
-title: "Edge Case: Nested and Mixed Lists"
+title: "번역-케인지언과 통화주의자의 구분은 더 이상 유효하지 않다."
 categories:
   - 경제사상사
 tags:
