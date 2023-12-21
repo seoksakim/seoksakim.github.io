@@ -1,9 +1,10 @@
 ---
 title: "Edge Case: Nested and Mixed Lists"
 categories:
-  - 재정학
+  - 경제사상사
 tags:
-  - 조세
+  - 케인지언
+  - 통화주의
 ---
 
 **초과부담 산식** 
