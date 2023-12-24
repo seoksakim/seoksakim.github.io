@@ -1,5 +1,5 @@
 ---
-title: "번역: Supply Chain Resilience"
+title: "번역: Supply Chain Resilience (2023): 초록과 1장"
 categories:
   - 개방경제모형
 tags:
@@ -7,7 +7,7 @@ tags:
   - CES
 ---
 
-원문: Supply Chain Resilience: Should Policy Promote International Diversification or Reshoring? 
+Supply Chain Resilience: Should Policy Promote International Diversification or Reshoring? 
 
 Gene M. Grossman (Princeton University)
 
