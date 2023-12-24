@@ -1,7 +1,7 @@
 ---
 title: "번역: Robert Solow on Growth and the State of Economics"
 categories:
-  - 경제사상상
+  - 경제사상사
 tags:
   - Solow
 ---
