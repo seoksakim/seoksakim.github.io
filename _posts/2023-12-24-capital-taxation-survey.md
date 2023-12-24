@@ -6,6 +6,11 @@ tags:
   - 자본
   - 자본소득세
 ---
+## Capital taxation: A survey of the evidence
+
+Daniel Waldenstrom / Spencer Bastani (9 Nov 2020)
+
+원문: [https://cepr.org/voxeu/columns/capital-taxation-survey-evidence](https://cepr.org/voxeu/columns/capital-taxation-survey-evidence)
 
 ## **자본 과세: 증거 조사**
 
