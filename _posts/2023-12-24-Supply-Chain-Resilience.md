@@ -1,5 +1,5 @@
 ---
-title: "번역: Supply Chain Resilience (2023): 초록과 1장"
+title: "번역: Supply Chain Resilience(2023)-초록과 1장"
 categories:
   - 개방경제모형
 tags:
