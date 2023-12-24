@@ -12,9 +12,12 @@ Daniel Waldenstrom / Spencer Bastani (9 Nov 2020)
 
 원문: [https://cepr.org/voxeu/columns/capital-taxation-survey-evidence](https://cepr.org/voxeu/columns/capital-taxation-survey-evidence)
 
+
+
 ## **자본 과세: 증거 조사**
 
 > 선진국에서는 자본에 어떻게 세금을 부과해야 할까? 이 칼럼에서는 최적 자본세에 관한 최근 문헌과 자본세의 왜곡 효과에 관한 실증적 연구를 살펴본다. 재산, 부동산, 상속, 개인 자본소득, 기업 이윤에 대한 세금에 대한 구체적인 분석을 제공한다. 전반적인 결론은, 자본세가 최적조세 체계의 일부이긴 하지만 모든 자본세가 최적화와 행정적 실현 가능성 사이에서 균형을 이루는 것은 아니다.
+
 
 
 
