@@ -80,4 +80,4 @@ Mirrlees, J, S Adam, T Besley, R Blundell, S Bond, R Chote, M Gammie, P Johnson,
 
 Straub, L and I Werning (2020), “Positive Long-Run Capital Taxation: Chamley-Judd Revisited”, *American Economic Review* 110(1): 86-119.
 
-Piketty, T (2014), *Capital in the Twenty-First Cen
+Piketty, T (2014), *Capital in the Twenty-First Century,* Belknap, Harvard University Press.
