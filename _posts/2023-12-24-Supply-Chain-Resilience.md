@@ -7,17 +7,14 @@ tags:
   - CES
 ---
 
-원문: Grossman, G. M., Helpman, E., & Lhuillier, H. (2023). Supply Chain Resilience: Should Policy Promote International Diversification or Reshoring?.
-
-
-## 글로벌 공급망 회복탄력성: 정책은 해외 다각화와 리쇼어링 중 어느 쪽을 촉진해야 하는가? 
-
-Supply Chain Resilience: Should Policy Promote International Diversification or Reshoring? 
-
+원문: Supply Chain Resilience: Should Policy Promote International Diversification or Reshoring? 
 Gene M. Grossman (Princeton University)
 Elhanan Helpman (Harvard University)
 Hugo Lhuillier (Princeton University)
 January 2, 2023  
+
+
+## 글로벌 공급망 회복탄력성: 정책은 해외 다각화와 리쇼어링 중 어느 쪽을 촉진해야 하는가? 
 
 
 #### 초록
