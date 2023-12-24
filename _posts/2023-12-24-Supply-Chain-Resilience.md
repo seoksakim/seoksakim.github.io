@@ -1,5 +1,5 @@
 ---
-title: "번역: Supply Chain Resilience: Should Policy Promote International Diversification or Reshoring? "
+title: "번역: Supply Chain Resilience"
 categories:
   - 개방경제모형
 tags:
