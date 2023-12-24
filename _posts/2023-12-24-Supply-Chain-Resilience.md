@@ -8,9 +8,13 @@ tags:
 ---
 
 원문: Supply Chain Resilience: Should Policy Promote International Diversification or Reshoring? 
+
 Gene M. Grossman (Princeton University)
+
 Elhanan Helpman (Harvard University)
+
 Hugo Lhuillier (Princeton University)
+
 January 2, 2023  
 
 
