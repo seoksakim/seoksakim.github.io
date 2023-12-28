@@ -4,6 +4,7 @@ categories:
   - 경제사상사
 tags:
   - Solow
+toc: true
 ---
 
 원문: https://www.econtalk.org/robert-solow-on-growth-and-the-state-of-economics/#audio-highlights
