@@ -5,6 +5,7 @@ categories:
 tags:
   - Solow
 toc: true
+toc_sticky: true
 ---
 
 원문: https://www.econtalk.org/robert-solow-on-growth-and-the-state-of-economics/#audio-highlights
