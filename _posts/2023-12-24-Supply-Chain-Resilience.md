@@ -1,18 +1,18 @@
 ---
-title: "번역: Supply Chain Resilience(2023)-초록과 1장"
+title: "번역: 글로벌 공급망 회복탄력성(2023)"
 categories:
-  - 개방경제모형
+  - 번역
 tags:
-  - 공급망
-  - CES
+  - 거시경제학
+  - 개방경제모형
 ---
+
+아래 논문의 초록과 1장을 번역하였다. 
 
 Supply Chain Resilience: Should Policy Promote International Diversification or Reshoring? 
 
 Gene M. Grossman (Princeton University)
-
 Elhanan Helpman (Harvard University)
-
 Hugo Lhuillier (Princeton University)
 
 January 2, 2023  
