@@ -14,7 +14,7 @@ locale                   : "ko-KR"
 title                    : "틀리거나 말거나, 나는 푼다."
 title_separator          : "-"
 subtitle                 : ""
-name                     : "Seoksa KIM" # &name is a YAML anchor which can be *referenced later
+name                     : "" # &name is a YAML anchor which can be *referenced later
 description              :    
 url                      : https://seoksakim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
@@ -99,8 +99,8 @@ analytics:
 author:
   name             :  Seoksa KIM
   avatar           : "/assets/logo.png"
-  bio              : "석사김은 독학 중이다" 
-  location         : "대한민국, 서울"
+  bio              : "" 
+  location         : ""
   links:
    # - label: "Made Mistakes"
    #   icon: "fas fa-fw fa-link"
@@ -209,7 +209,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -220,7 +220,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   # _docs
   - scope:
       path: ""
