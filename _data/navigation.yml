@@ -2,7 +2,8 @@
 main:
   - title: "블로그"
     url: /year-archive/
-
+  - title: "번역"
+    url: /year-translated/
 
 # sidebar navigation list sample
 sidebar-sample:
